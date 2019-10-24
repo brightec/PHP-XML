@@ -1,0 +1,13 @@
+{
+  "name": "brightec/php-xml",
+  "description": "Serialize and deserialize between XML and PHP objects",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHP_XML\\": "src/"
+    }
+  }
+}
